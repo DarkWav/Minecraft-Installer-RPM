@@ -1,7 +1,7 @@
 # Minecraft-Installer-RPM
 ## Unofficial Minecraft installer for [Fedora](https://getfedora.org) and [openSUSE](https://www.opensuse.org/)
 ### This is just a quick script to package the official Minecraft launcher into <br> a rpm package based on the official AUR build script.
-### Used Libraries:<br> * [The AUR repo](https://aur.archlinux.org/packages/minecraft-launcher)<br> * [The Official Minecraft Launcher](https://www.minecraft.net/de-de/download/alternative/)<br> * [My Unofficial Specfile](https://github.com/DarkWav/DarkWav.github.io/blob/master/minecraft-launcher.spec)
+### Used Libraries:<br> * [The AUR repo](https://aur.archlinux.org/packages/minecraft-launcher)<br> * [The Official Minecraft Launcher](https://www.minecraft.net/download/alternative/)<br> * [My Unofficial Specfile](https://github.com/DarkWav/DarkWav.github.io/blob/master/minecraft-launcher.spec)
 
 ### While the Script and the Specfile are released under the GGPLv3 all other libraries are still properties of their respective owners!
 
