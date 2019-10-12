@@ -29,9 +29,9 @@
 ### I am not responsible for any harm or damage this script might do to your computer.<br> While it is possible for this script to work on [RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) / [CentOS](https://centos.org) / [SLE](https://www.suse.com/products/desktop) / [PCLinuxOS](https://www.pclinuxos.com/) / [openMandriva](https://www.openmandriva.org) / [Mageia](https://www.mageia.org) it is only guaranteed to do so with [Fedora](https://getfedora.org) and [openSUSE](https://www.opensuse.org).
 
 ### Current Status for non-supported distros:
-* <b>RHEL: Working</b><br>
-* <b>CentOS: Working</b>br>
-* <b>SLE: Working</b>br>
-* <b>PCLinuxOS: BORKED (libcef.so dependency issue)</b>br>
-* <b>Mageia: Working</b>br>
-* <b>openMandriva: Not Tested</b>br>
+* <b>RHEL: Working</b>
+* <b>CentOS: Working</b>
+* <b>SLE: Working</b>
+* <b>PCLinuxOS: BORKED (libcef.so dependency issue)</b>
+* <b>Mageia: Working</b>
+* <b>openMandriva: Not Tested</b>
