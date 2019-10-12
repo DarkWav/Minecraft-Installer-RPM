@@ -10,9 +10,9 @@
 * <b>A working Internet Connection<br></b>
 * <b>The following commands must be available:</b><pre>rpmbuild<br>wget<br>tar<br>bash</pre>
 
-<b>Installing dependencies on openSUSE (Terminal):</b>
+<b>Installing dependencies in openSUSE (Terminal):</b>
 <pre>sudo zypper in rpm-build wget bsdtar bash</pre>
-<b>Installing dependencies on Fedora (Terminal):</b>
+<b>Installing dependencies in Fedora (Terminal):</b>
 <pre>sudo dnf in rpm-build wget bsdtar bash</pre>
 
 ## Usage:
