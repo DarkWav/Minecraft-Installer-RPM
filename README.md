@@ -6,13 +6,17 @@
 ### While the Script and the Specfile are released under the GGPLv3 all other libraries are still properties of their respective owners!
 
 ## Requirements: 
-### * A working Java Installation (preferrably Java 8)<br> * A working Internet Connection<br> * The following commands must be available:<pre> rpmbuild </pre> <pre> wget </pre> <pre> tar </pre> <pre> bash </pre>
+###
+* A working Java Installation (preferrably Java 8)
+* A working Internet Connection<br>
+* The following commands must be available:<pre> rpmbuild </pre> <pre> wget </pre> <pre> tar </pre> <pre> bash </pre>
 ### Installing dependencies on openSUSE (Terminal):<pre>sudo zypper in rpm-build wget bsdtar bash</pre>
 ### Installing dependencies on Fedora (Terminal):<pre>sudo dnf in rpm-build wget bsdtar bash</pre>
 
 ## Usage:
 
-### 1. Download [minecraft-installer.sh]()<br>2. Open a Terminal at the location where you downloaded the Installer<br>3. Make the Installer executable (Type in Terminal):<pre>chmod +x minecraft-installer.sh</pre>4. Run the Installer (Type in Terminal):<pre>./minecraft-installer.sh</pre> 5. If you want to install a Launcher Update, just run the Installer again<br>6. To uninstall the Launcher, run <pre>sudo rpm -e minecraft-launcher</pre>7. Have fun!
+### 1. Download [minecraft-installer.sh](https://darkwav.github.io/minecraft-installer.sh)
+)<br>2. Open a Terminal at the location where you downloaded the Installer<br>3. Make the Installer executable (Type in Terminal):<pre>chmod +x minecraft-installer.sh</pre>4. Run the Installer (Type in Terminal):<pre>./minecraft-installer.sh</pre> 5. If you want to install a Launcher Update, just run the Installer again<br>6. To uninstall the Launcher, run <pre>sudo rpm -e minecraft-launcher</pre>7. Have fun!
 
 ## Disclaimer:
 
