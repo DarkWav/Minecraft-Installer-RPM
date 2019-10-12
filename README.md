@@ -6,9 +6,9 @@
 ### While the Script and the Specfile are released under the GGPLv3 all other libraries are still properties of their respective owners!
 
 ## Requirements: 
-<b>* A working Java Installation (preferrably Java 8)
-* A working Internet Connection<br></b>
-* The following commands must be available:<pre>rpmbuild<br>wget<br>tar<br>bash</pre>
+* <b>A working Java Installation (preferrably Java 8)</b>
+* <b>A working Internet Connection<br></b>
+* <b>The following commands must be available:</b><pre>rpmbuild<br>wget<br>tar<br>bash</pre>
 ### Installing dependencies on openSUSE (Terminal):
 <pre>sudo zypper in rpm-build wget bsdtar bash</pre>
 ### Installing dependencies on Fedora (Terminal):
