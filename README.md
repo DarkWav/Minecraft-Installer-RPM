@@ -9,13 +9,18 @@
 * <b>A working Java Installation (preferrably Java 8)</b>
 * <b>A working Internet Connection<br></b>
 * <b>The following commands must be available:</b><pre>rpmbuild<br>wget<br>tar<br>bash</pre>
-### Installing dependencies on openSUSE (Terminal):
+<b>Installing dependencies on openSUSE (Terminal):</b>
 <pre>sudo zypper in rpm-build wget bsdtar bash</pre>
-### Installing dependencies on Fedora (Terminal):
+<b>Installing dependencies on Fedora (Terminal):</b>
 <pre>sudo dnf in rpm-build wget bsdtar bash</pre>
 
 ## Usage:
-1. Download [minecraft-installer.sh](https://darkwav.github.io/minecraft-installer.sh)<br>2. Open a Terminal at the location where you downloaded the Installer<br>3. Make the Installer executable (Type in Terminal):<pre>chmod +x minecraft-installer.sh</pre>4. Run the Installer (Type in Terminal):<pre>./minecraft-installer.sh</pre> 5. If you want to install a Launcher Update, just run the Installer again<br>6. To uninstall the Launcher, run <pre>sudo rpm -e minecraft-launcher</pre>7. Have fun!
+<b>1. Download [minecraft-installer.sh](https://darkwav.github.io/minecraft-installer.sh)<br></b>
+<b>2. Open a Terminal at the location where you downloaded the Installer<br></b>
+<b>3. Make the Installer executable (Type in Terminal):</b><pre>chmod +x minecraft-installer.sh</pre>
+<b>4. Run the Installer (Type in Terminal):</b><pre>./minecraft-installer.sh</pre> 5. If you want to install a Launcher Update, just run the Installer again<br>
+<b>6. To uninstall the Launcher, run <pre>sudo rpm -e minecraft-launcher</pre></b>
+<b>7. Have fun!</b>
 
 ## Disclaimer:
 
