@@ -16,7 +16,7 @@
 <pre>sudo dnf in rpm-build wget bsdtar bash</pre>
 
 ## Usage:
-<b>1. Download <a download="minecraft-installer.sh" href="https://github.com/DarkWav/Minecraft-Installer-RPM/raw/master/minecraft-installer.sh">minecraft-installer.sh</a><br></b>
+<b>1. Download [minecraft-installer.sh](https://darkwav.github.io/minecraft-installer.sh)><br></b>
 <b>2. Open a Terminal at the location where you downloaded the Installer<br></b>
 <b>3. Make the Installer executable (Type in Terminal):</b><pre>chmod +x minecraft-installer.sh</pre>
 <b>4. Run the Installer (Type in Terminal):</b><pre>./minecraft-installer.sh</pre>
