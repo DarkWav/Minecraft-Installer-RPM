@@ -7,7 +7,7 @@ cd minecraft-installer
 # Download target for specification file of minecraft-launcher
 echo Downloading specification file...
 sleep 1s
-wget https://darkwav.github.io/minecraft-launcher.spec
+wget https://github.com/DarkWav/Specfile-Cloud/raw/master/minecraft-launcher.spec
 clear
 echo "########################################################################################################"
 echo Welcome to my Minecraft installer for openSUSE and Fedora
