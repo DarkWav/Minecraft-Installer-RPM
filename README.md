@@ -11,7 +11,7 @@
 * <b>The following commands must be available:</b><pre>rpmbuild<br>wget<br>tar<br>bash</pre>
 
 <b>Installing dependencies in openSUSE (Terminal):</b>
-<pre>sudo zypper in rpm-build wget bsdtar bash</pre>
+<pre>sudo zypper in rpm-build wget bsdtar bash gconf2</pre>
 <b>Installing dependencies in Fedora (Terminal):</b>
 <pre>sudo dnf in rpm-build wget bsdtar bash</pre>
 
