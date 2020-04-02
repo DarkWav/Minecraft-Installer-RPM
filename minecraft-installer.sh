@@ -50,5 +50,6 @@ sudo clear
 echo Installing...
 sleep 2s
 sudo rpm -e minecraft-launcher
+clear
 sudo rpm -ivh ${rpmfile}
 echo Finished.
