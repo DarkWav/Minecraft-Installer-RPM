@@ -18,7 +18,7 @@ echo RedHat - for RPMBuild,
 echo Arch Linux - for build system,
 echo DarkWav - for installer script.
 echo .
-echo If you whish to build a minecraft-launcher rpm package, press any key
+echo If you wish to build a minecraft-launcher rpm package, press any key
 read -n1 -r -p "########################################################################################################" key
 clear
 echo Starting Build...
@@ -43,7 +43,7 @@ rpmfile=$(find . -name *.rpm)
 clear
 echo "########################################################################################################"
 echo ${rpmfile} has been built successfully.
-echo If you whish to install ${rpmfile} or update your current installation,
+echo If you wish to install ${rpmfile} or update your current installation,
 echo press any key and enter your password
 read -n1 -r -p "########################################################################################################" key
 sudo clear
